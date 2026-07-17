@@ -116,6 +116,3 @@ The proposed implementation follows a phased deployment strategy to minimize ris
 
 **Wenting Luo**
 
-Industrial Engineering | Data Analytics | Operations Research
-
-GitHub: https://github.com/wentingluo91
