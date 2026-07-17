@@ -70,6 +70,17 @@ The objective is to improve inventory visibility, standardize business processes
 
 ---
 
+---
+
+## 🌐 Online Demonstration
+
+An online ERPNext instance was deployed to demonstrate the proposed management system.
+
+| Resource | Link |
+|----------|------|
+| ERPNext System | https://shop.cfacabinetry.store/desk |
+| Product Website | https://shop.cfacabinetry.store/Products |
+
 ## 🔍 Technologies & Topics
 
 - ERP Evaluation
